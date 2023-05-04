@@ -1,4 +1,4 @@
-# arduino8_LEDrgb
+# Arduino com LED RGB
 
 ## Contextualização
 
